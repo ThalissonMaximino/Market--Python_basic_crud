@@ -10,7 +10,7 @@ If you have any questions or opinions about this repository feel free to contact
 
 Clone the project
 
-```bash
+```
   git clone git@github.com:ThalissonMaximino/Market--Python_basic_crud.git
 ```
 
